@@ -42,7 +42,6 @@
 *.su
 *.idb
 *.pdb
-.gitignore
 
 # Kernel Module Compile Results
 *.mod*
