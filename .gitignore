@@ -48,6 +48,10 @@
 *.cmd
 .tmp_versions/
 
+.gitignore
+.git
+.cproject
+.ccsproject
 modules.order
 Module.symvers
 Mkfile.old
